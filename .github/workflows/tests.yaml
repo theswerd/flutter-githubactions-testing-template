@@ -4,7 +4,7 @@ env:
   FLUTTER_VERSION: "1.22.1"
 
 on:
-  pull_requeset:
+  pull_request:
     branches:
       - main
 
